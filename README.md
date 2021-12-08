@@ -1,2 +1,2 @@
 # Goku-Black
-A simple Discord bot
+A simple Discord chat bot
